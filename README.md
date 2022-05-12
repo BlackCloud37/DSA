@@ -10,4 +10,5 @@ Memos about data structures and algorithms.
 | ----------- | ---- | ------ |
 | Binary Tree | ✅    |        |
 | Trie Tree   | ✅    | ✅      |
+| Heap        | ✅    |        |
 
