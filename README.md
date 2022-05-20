@@ -12,3 +12,4 @@ Memos about data structures and algorithms.
 | Trie Tree   | ✅    | ✅      |
 | Heap        | ✅    |        |
 | Linked List |      | ✅      |
+| LRU Cache   |      | ✅      |
